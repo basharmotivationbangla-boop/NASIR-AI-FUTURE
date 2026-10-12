@@ -1,0 +1,12 @@
+{
+  "name": "NASIR AI FUTURE",
+  "description": "Unified futuristic AI creative ecosystem with timeline video editing, AI assistant, image studio, audio recording, robotics and science laboratories.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

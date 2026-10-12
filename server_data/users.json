@@ -1,0 +1,11 @@
+[
+  {
+    "id": "user_1791818036743",
+    "name": "Nasir Test",
+    "phone": "01811223344",
+    "passwordHash": "1f0026b053f9eeeedf6ee01eb384fe9729aebe5b90c0a7afc6ac8bbaa30c9e0f",
+    "secretName": "Shapla",
+    "plan": "Pro Studio Creator",
+    "createdAt": "2026-10-12T15:13:56.743Z"
+  }
+]
